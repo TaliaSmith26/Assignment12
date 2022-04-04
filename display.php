@@ -6,8 +6,6 @@
         * homework code. All copied style has been edited in some way.
         */
        html {
-           background-color: rgb(112, 247, 247);
-           color: rgb(247, 2, 247);
            text-align: center;
         }
         h2 {
@@ -26,7 +24,7 @@
             margin-right: auto;
             padding: 5px 10px;
             margin-top: 0px;
-            border: 3px solid #DC143C;
+            border: 2px solid black;
         }
 </style>
 </head>
@@ -46,7 +44,3 @@
 </div>
 </body>
 </html>
-
-
-
-
